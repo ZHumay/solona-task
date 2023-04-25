@@ -32,7 +32,7 @@ body {
       rgba(0, 0, 0, 0.7) 75%,
       #000 100%
     ),
-    url(./img/IMAGE.png), url(./img/IMAGE\ \(1\).png);
+    url(../img/IMAGE.png), url(../img/IMAGE\ \(1\).png);
   background-position: right, left;
   background-repeat: no-repeat, no-repeat;
   background-position-y: -51px;
@@ -824,7 +824,7 @@ footer{
             font-family: "Roboto";
             font-style: normal;
             font-weight: 400;
-            font-size: 17px;
+            font-size: 15px;
             line-height: 27px;
             text-align: center;
             text-transform: uppercase;
@@ -841,7 +841,7 @@ footer{
               rgba(0, 0, 0, 0.7) 75%,
               #000 100%
             ),
-            url(./img/IMAGE.png), url(./img/IMAGE\ \(1\).png);
+            url(../img/IMAGE.png), url(../img/IMAGE\ \(1\).png);
           background-position: right, left;
           background-repeat: no-repeat, no-repeat;
           background-position-y: -51px;
@@ -869,7 +869,7 @@ footer{
               li {
                 margin: 20px;
                 font-weight: 400;
-                font-size: 18px;
+                font-size: 16px;
                 line-height: 27px;
         
                 text-align: center;
@@ -891,7 +891,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 70px;
+              font-size: 58px;
               line-height: 76px;
               text-align: center;
               letter-spacing: 0.68px;
@@ -903,7 +903,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 21px;
+              font-size: 19px;
               line-height: 27px;
               text-align: center;
               transform: translateY(55px);
@@ -917,7 +917,7 @@ footer{
                 margin: 20px;
               }
               .start-btn {
-                width: 181px;
+                width: 171px;
                 height: 52px;
                 background: linear-gradient(98.88deg, #8c01fa -2.99%, #000000 102.28%);
                 border: 1px solid #000000;
@@ -932,7 +932,7 @@ footer{
                 background: #000000;
                 border: 1px solid #ffffff;
                 border-radius: 36px;
-                width: 146px;
+                width: 140px;
                 height: 52px;
                 color: white;
                 font-family: "Roboto";
@@ -956,7 +956,7 @@ footer{
             font-family: "Helvetica";
             font-style: normal;
             font-weight: 400;
-            font-size: 15px;
+            font-size: 12px;
             line-height: 17px;
             text-align: center;
             letter-spacing: 0.8px;
@@ -997,7 +997,7 @@ footer{
                   font-family: "Helvetica";
                   font-style: normal;
                   font-weight: 400;
-                  font-size: 38px;
+                  font-size: 34px;
                   line-height: 46px;
                   width: 316px;
                   height: 47px;
@@ -1021,7 +1021,7 @@ footer{
                 }
         
                 .account {
-                  font-size: 101px;
+                  font-size: 97px;
                   background: linear-gradient(261.81deg, #19fb9b 8.01%, #8c01fa 9%);
                   font-family: "Helvetica";
                   font-style: normal;
@@ -1032,7 +1032,7 @@ footer{
                   background-clip: text;
                 }
                 .nfts {
-                  font-size: 106px;
+                  font-size: 97px;
                   background: linear-gradient(
                     260.33deg,
                     #0047ff -13.37%,
@@ -1047,7 +1047,7 @@ footer{
                   background-clip: text;
                 }
                 .cost {
-                  font-size: 110px;
+                  font-size: 97px;
                   background: linear-gradient(
                     265.11deg,
                     #00ffbd -5.84%,
@@ -1077,7 +1077,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 38px;
+              font-size: 34px;
               line-height: 46px;
               letter-spacing: 1px;
               color: #ffffff;
@@ -1092,7 +1092,7 @@ footer{
                 font-family: "Roboto";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 16px;
+                font-size: 15px;
                 line-height: 16px;
                 text-transform: uppercase;
                 color: #c4c4c4;
@@ -1121,7 +1121,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 28px;
+                font-size: 25px;
                 line-height: 33px;
                 color: white;
                 transform: translate(32px, 20px);
@@ -1137,7 +1137,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 17px;
+                font-size: 16px;
                 line-height: 27px;
                 color: #c4c4c4;
                 width: 250px;
@@ -1166,7 +1166,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 28px;
+                font-size: 25px;
                 line-height: 33px;
                 color: white;
                 transform: translate(32px, -16px);
@@ -1182,7 +1182,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 17px;
+                font-size: 16px;
                 line-height: 27px;
                 color: #c4c4c4;
                 width: 250px;
@@ -1213,7 +1213,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 28px;
+                font-size: 25px;
                 line-height: 33px;
                 color: white;
                 transform: translate(32px, -16px);
@@ -1229,7 +1229,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 17px;
+                font-size: 16px;
                 line-height: 27px;
                 color: #c4c4c4;
                 width: 262px;
@@ -1258,7 +1258,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 28px;
+                font-size: 25px;
                 line-height: 33px;
                 color: white;
                 transform: translate(32px, -16px);
@@ -1274,7 +1274,7 @@ footer{
                 font-family: "Helvetica";
                 font-style: normal;
                 font-weight: 400;
-                font-size: 17px;
+                font-size: 16px;
                 line-height: 27px;
                 color: #c4c4c4;
                 width: 292px;
@@ -1303,7 +1303,7 @@ footer{
           font-family: "Helvetica";
           font-style: normal;
           font-weight: 400;
-          font-size: 39px;
+          font-size: 35px;
           line-height: 46px;
           letter-spacing: 1px;
   
@@ -1327,7 +1327,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 15px;
+              font-size: 14px;
               line-height: 27px;
               text-align: center;
             }
@@ -1341,7 +1341,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 15px;
+              font-size: 14px;
               line-height: 27px;
               text-align: center;
             }
@@ -1355,7 +1355,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 15px;
+              font-size: 14px;
               line-height: 27px;
               text-align: center;
             }
@@ -1369,7 +1369,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 15px;
+              font-size: 14px;
               line-height: 27px;
               text-align: center;
             }
@@ -1383,7 +1383,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 15px;
+              font-size: 14px;
               line-height: 27px;
               text-align: center;
             }
@@ -1417,7 +1417,7 @@ footer{
             font-family: "Helvetica";
             font-style: normal;
             font-weight: 400;
-            font-size: 21px;
+            font-size: 19px;
             line-height: 27px;
             width: 439px;
             color: #ffffff;
@@ -1430,7 +1430,7 @@ footer{
               font-family: "Helvetica";
               font-style: normal;
               font-weight: 400;
-              font-size: 21px;
+              font-size: 19px;
               line-height: 27px;
           }
         }
@@ -1459,7 +1459,7 @@ footer{
             font-family: 'Helvetica';
             font-style: normal;
             font-weight: 400;
-            font-size: 38px;
+            font-size: 35px;
             line-height: 46px;
             letter-spacing: 1px;
             width: 469px;
@@ -1488,7 +1488,7 @@ footer{
             font-family: 'Helvetica';
             font-style: normal;
             font-weight: 400;
-            font-size: 38px;
+            font-size: 35px;
             line-height: 46px;
             text-align: center;
             letter-spacing: 1px;
@@ -1504,7 +1504,7 @@ footer{
             color: white;
             font-family: "Roboto";
             font-style: normal;
-            font-size: 15px;
+            font-size: 14px;
             font-weight: 400;transform: translateY(30px);
         }
     }
@@ -1888,7 +1888,7 @@ footer{
         font-family: "Helvetica";
         font-style: normal;
         font-weight: 400;
-        font-size: 38px;
+        font-size: 35px;
         line-height: 46px;
         letter-spacing: 1px;
         color: #ffffff;
@@ -1903,7 +1903,7 @@ footer{
           font-family: "Roboto";
           font-style: normal;
           font-weight: 400;
-          font-size: 16px;
+          font-size: 14px;
           line-height: 16px;
           text-transform: uppercase;
           color: #c4c4c4;
@@ -1932,7 +1932,7 @@ footer{
           font-family: "Helvetica";
           font-style: normal;
           font-weight: 400;
-          font-size: 28px;
+          font-size: 25px;
           line-height: 33px;
           color: white;
           transform: translate(32px, 20px);
