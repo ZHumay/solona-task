@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@200&family=Roboto:wght@100;300;400;500;700&display=swap");
-
 * {
   margin: 0;
   padding: 0;
@@ -814,6 +813,8 @@ footer{
 
 
 
+
+
     @media screen and (min-width: 992px) and (max-width: 1279px){
       .top-of-nav {
          min-width: 1197px;
@@ -1508,8 +1509,8 @@ footer{
         }
     }
    
-}
-footer{
+  }
+  footer{
    min-width: 1197px;
     height: 383px;
     display: flex;
@@ -1533,7 +1534,7 @@ footer{
                 color: #FFFFFF;
                 padding-top: 15px;
                 padding-bottom: 20px;
-
+  
             }
             p{
                 color: #848895;
@@ -1542,8 +1543,8 @@ footer{
                 font-weight: 400;
                 font-size: 16px;
                 line-height: 27px;
-
-
+  
+  
             }
         }
         .solona{
@@ -1571,7 +1572,7 @@ footer{
                 
               }
             }
-
+  
             .connected{
                 h2{
                  
@@ -1597,7 +1598,7 @@ footer{
                     
                   }
             }
-
+  
             .logo{
                 display: flex;
                 flex-direction: row;
@@ -1618,15 +1619,15 @@ footer{
             }
         }
     }
-
-}
-
-
-
-
-
-@media screen and (min-width: 320px) and (max-width: 991px){
-
+  
+  }
+  
+  
+  
+  
+  
+  @media screen and (min-width: 320px) and (max-width: 991px){
+  
   .top-of-nav {
     min-width: 1201.5px;
     height: 37px;
@@ -2432,5 +2433,5 @@ footer{
       }
   
   
-
-}
+  
+  }
